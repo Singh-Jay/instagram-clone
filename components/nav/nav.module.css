@@ -1,0 +1,10 @@
+.nav {
+  display: flex;
+  background-color: #ffffff;
+  padding: 13px;
+  border-bottom: 1px solid lightgray;
+}
+
+.navLogo {
+  object-fit: contain;
+}
